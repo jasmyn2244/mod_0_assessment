@@ -4,7 +4,7 @@ var developer = {
   age: 13,
   yearsOfExperience: 2,
   answersToHeyNerd: true,
-  wearsGlasses: false
+  wearsGlasses: false,
   languages: ["Ruby, "Python"],
   placesWorked: ["Google", "Work Day", "Amazon"],
 }
